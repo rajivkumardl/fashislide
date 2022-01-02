@@ -1320,6 +1320,9 @@ nav {
     .shipping-section{
         border: 0;
     }
+    .footer-bottom{
+        padding-bottom: 20px;
+    }
     
 }
 
